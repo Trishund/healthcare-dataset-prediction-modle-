@@ -1,1 +1,1 @@
-# healthcare-dataset-prediction-modle-
+# healthcare-dataset-prediction-model-
